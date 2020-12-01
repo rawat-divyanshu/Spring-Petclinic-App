@@ -2,8 +2,6 @@ package com.rawatdivyanshu.petclinic.Bootstrap;
 
 import com.rawatdivyanshu.petclinic.Models.Owner;
 import com.rawatdivyanshu.petclinic.Models.Vet;
-import com.rawatdivyanshu.petclinic.Services.Map.OwnerServiceMap;
-import com.rawatdivyanshu.petclinic.Services.Map.VetServiceMap;
 import com.rawatdivyanshu.petclinic.Services.OwnerService;
 import com.rawatdivyanshu.petclinic.Services.VetService;
 import org.springframework.boot.CommandLineRunner;
